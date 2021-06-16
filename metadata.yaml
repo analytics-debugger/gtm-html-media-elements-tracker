@@ -1,0 +1,5 @@
+homepage: "https://www.thyngster.com"
+documentation: "https://www.npmjs.com/package/@analytics-debugger/html-media-elements"
+versions:
+  - sha: 40254fb07755f3f8b1063db8b447e02998523fe1
+    changeNotes: Initial release.
